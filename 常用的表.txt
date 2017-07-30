@@ -1,0 +1,11 @@
+1.有真实交易的表
+rimbi_dw_sds.mid_dubill_stat_base
+
+2.涉及到账户前期（申请，注册，是否放款权限）
+rimdm.risk_event表
+rimbi_dw_ods.ods_ris_event_dd
+getvar(data_json,'custsCode')
+
+3. 账期等
+rimbi_dw_sds.sds_installment_schedule 
+loan_id = _trxn_seq
