@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 20 10:12:16 2017
 
-@author: lizhiping02
+@author: 
 """
 # -*- coding: utf-8 -*-
 """
