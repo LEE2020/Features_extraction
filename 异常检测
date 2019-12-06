@@ -1,0 +1,16 @@
+# 异常检测
+
+https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf
+1）  N. Abe, B. Zadrozny, and J. Langford. Outlier detection by
+active learning. In Proceedings of the 12th ACM SIGKDD
+international conference on Knowledge discovery and data
+mining, pages 504–509. ACM Press, 2006.
+
+2） P. J. Rousseeuw and K. V. Driessen. A fast algorithm for the
+minimum covariance determinant estimator. Technometrics,
+41(3):212–223, 1999
+
+3） Z. He, X. Xu, and S. Deng. Discovering cluster-based local
+outliers. Pattern Recogn. Lett., 24(9-10):1641–1650, 2003.
+
+
